@@ -1,0 +1,21 @@
+h3 {
+    background: #34495e;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    background: #dceef2;
+    color: #34495e;
+    padding: 10px;
+}
+
+.list-group-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.list-group-item:hover {
+    background: #eaf4f4;
+}
